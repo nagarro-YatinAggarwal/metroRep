@@ -7,8 +7,6 @@ import org.example.Store.TripHistory
 import org.example.entity.BankAccount
 import org.example.entity.MetroCard;
 import org.example.entity.Person;
-import org.example.entity.Trip;
-
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.Date;
